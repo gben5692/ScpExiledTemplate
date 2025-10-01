@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScpExiledTemplate", "ScpExiledTestingHere\ScpExiledTemplate.csproj", "{5CD39628-AD98-4E32-BD11-6E214C002E75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScpExiledTemplate", "ScpExiledTemplate\ScpExiledTemplate.csproj", "{5CD39628-AD98-4E32-BD11-6E214C002E75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
