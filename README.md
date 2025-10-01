@@ -1,4 +1,4 @@
-# SCPSLExiledPlugin
+# SCP SL Exiled Template
 
 > [!Important]
 > You **must know the basics of C#** before using this template — but you can try!
